@@ -134,12 +134,6 @@ Links to our LinkedIn accounts:
 - [Antonio Ionta](https://www.linkedin.com/in/antonio-ionta-a349b515a/) 
 - [Luigi Zollo](https://www.linkedin.com/in/luigi-zollo-85056915a/) 
 
-# Slideshow links
-
-- First presentation - Idea : https://www.slideshare.net/AntonioIonta/my-fitness-system-initial-ideas
-- Overview and user evaluation : https://www.slideshare.net/AntonioIonta/chronosmart-overview-user-evaluation
-- MVP: https://www.slideshare.net/AntonioIonta/chronosmart-mvp
-- Final presentation - Chronosmart : https://www.slideshare.net/AntonioIonta/chronosmart-final-presentation-101093689
 
 # Video of demo
 https://youtu.be/Adssc22V0bk
