@@ -128,8 +128,6 @@ The statistics are shown as a graph, with the possibility of being zoomed, conta
 
 # Team members 
 
-Links to our LinkedIn accounts:
-
 - Antonio Luciano 
 - Antonio Ionta 
 - Luigi Zollo
