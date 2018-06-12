@@ -134,5 +134,11 @@ The statistics are shown as a graph, with the possibility of being zoomed, conta
 - Michele Sorrentino
 
 
+# Presentation and Documentation of the project
+
+- [Presentation] (https://drive.google.com/file/d/1gTlVxoO7EG2aYygzW0cIC3y-T1Az-Shg/view?usp=sharing)
+- [Documentation] (https://drive.google.com/file/d/16fNjEm-2Nf4Vf9L2I31R9WceAQXe_uOj/view?usp=sharing)
+
+
 # Video of demo
 https://youtu.be/Adssc22V0bk
